@@ -1,11 +1,11 @@
 
-# Check status and speed of loading in Steam
+## Check status and speed of loading in Steam
 
-## Determines the Steam installation path through the Windows registry
+### Determines the Steam installation path through the Windows registry
  
-## Reads the content_log.txt log file 
+### Reads the content_log.txt log file 
 
-## Every minute (for 5 minutes): 
+### Every minute (for 5 minutes): 
 
 - Determines whether the download is ongoing or paused
 
